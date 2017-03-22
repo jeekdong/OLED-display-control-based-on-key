@@ -11,5 +11,5 @@
 
 ## 结构
 
-![结构](OLED-display-control-based-on-key/picture/structure.png)
+![结构](https://github.com/lemondogs/OLED-display-control-based-on-key/blob/master/picture/structure.png)
 
