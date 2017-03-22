@@ -11,5 +11,5 @@
 
 ## 结构
 
-![QQ截图20170322221753](C:\Users\kejie\Pictures\截图\git素材\QQ截图20170322221753.png)
+![结构](OLED-display-control-based-on-key/picture/structure.png)
 
